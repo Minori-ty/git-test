@@ -1,6 +1,8 @@
 <script setup lang="ts">
 import HelloWorld from './components/HelloWorld.vue'
 console.log('开发了错误的代码')
+
+console.log('D')
 </script>
 
 <template>
